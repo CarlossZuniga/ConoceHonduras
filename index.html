@@ -12,41 +12,55 @@
 </head>
 
 <body>
+	
 	<header>
 		<div class="container-fluid">
-				<nav class="navbar navbar-light bg-light">
-					<a class="navbar-brand" href="index.html">
-						<img src="img/logo-blanco.png" alt="logo" class="img-fluid" width="120px">
-					</a>
-			 		 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
-					<p>Menu</p>
-				  	</button>
-			  <div class="collapse navbar-collapse" id="navbar">
-				<ul class="navbar-nav ms-auto">
-				  <li class="nav-item active">
-					<a class="nav-link" href="index.html">Inicio</a>
-				  </li>
-				  <li class="nav-item">
-					<a class="nav-link" href="destinos.html">Destinos</a>
-				  </li>
-				  <li class="nav-item">
-					<a class="nav-link" href="actividades.html">Actividades</a>
-				  </li>
-				  <li class="nav-item">
-					<a class="nav-link" href="#">Hoteles</a>
-				  </li>
-				  <li><hr></li>
-				  <li class="nav-item">
-					<a class="nav-link" href="#">Reservaciones</a>
-				  </li>
-				  <li class="nav-item">
-					<a class="nav-link" href="#">Sobre Nosotros</a>
-				  </li>
-				  <li class="nav-item">
-					<a class="nav-link" href="#">Contactanos</a>
-				  </li>
-				</ul>
-			  </div>
+			<nav class="navbar navbar-light bg-light">
+				<a class="navbar-brand" href="index.html">
+					<img src="img/logo-blanco.png" alt="logo" class="img-fluid" width="120px">
+				</a>
+			<div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvas" data-bs-keyboard="false" data-bs-backdrop="false">
+				<div class="offcanvas-header">
+					<p class="offcanvas-title d-none d-sm-block">Menu</p>
+					<button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+				</div>
+				<div class="offcanvas-body px-0">
+					<ul class="nav nav-pills flex-column mb-sm-auto mb-0 align-items-start" id="menu">
+						<li class="nav-item">
+							<a href="index.html" class="nav-link text-truncate">
+								<i class="fs-5 bi-house"></i><span class="ms-1 d-sm-inline">Inicio</span>
+							</a>
+						</li>
+						<li>
+							<a href="destinos.html" class="nav-link text-truncate">
+								<i class="fs-5 bi-table"></i><span class="ms-1 d-sm-inline">Destinos</span></a>
+						</li>
+						<li>
+							<a href="actividades.html" class="nav-link text-truncate">
+								<i class="fs-5 bi-table"></i><span class="ms-1 d-sm-inline">Actividades</span></a>
+						</li>
+						 <li>
+							<a href="#" class="nav-link text-truncate">
+								<i class="fs-5 bi-table"></i><span class="ms-1 d-sm-inline">Hoteles</span></a>
+						</li>
+						<li>
+							<hr>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="#">Reservaciones</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="#">Sobre Nosotros</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="#">Contactanos</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+				<a class="btn float-end menu-header-index" data-bs-toggle="offcanvas" data-bs-target="#offcanvas" role="button">
+					<i class="la la-bars" data-bs-toggle="offcanvas" data-bs-target="#offcanvas"></i>Menu
+				</a>
 			</nav>
 		</div>
 	</header>
@@ -100,8 +114,13 @@
 	<footer>
 		<div class="container">
 			<div class="row">
-				<article class="col-lg-4 col-sm-4 col-12">
-					<img src="img/logoredes.png" alt="logoredes" class="img-fluid" width="300px">
+				<article class="col-lg-4 col-sm-4 col-12 text-center">
+					<img src="img/logo-blanco.png" alt="logo" class="img-fluid" width="300px">
+					<ul class="list-inline mt-2">
+						<li class="list-inline-item iconos"><a href="#"><i class="lab la-facebook-f"></i></a></li>
+						<li class="list-inline-item iconos"><a href="#"><i class="lab la-instagram"></i></a></li>
+						<li class="list-inline-item iconos"><a href="#"><i class="lab la-twitter"></i></a></li>			
+					</ul>
 				</article>
 				<article class="col-lg-4 col-sm-4 col-12">
 					<p class="p-final-principal">Contactar</p>

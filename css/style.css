@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
 :root{
 	--color-blanco:#FFF;
 	--color-verde:#34c15f;
@@ -7,7 +9,7 @@
 
 body{
 	color: var(--color-blanco);
-	font-family: "Futura Bk";
+	font-family: "Futura Bk", "Roboto";
 	font-size: 16px;
 }
 
@@ -24,10 +26,19 @@ header p{
 	color: #fff;
 }
 
+.offcanvas{
+	background-color: var(--color-verde);
+}
+
 .navbar-toggler:focus{
 	text-decoration: none;
     outline: 0;
     box-shadow: none!important;
+}
+
+.menu-header-index{
+	font-size: 20px;
+	border: 0;
 }
 
 #hero{
@@ -863,7 +874,7 @@ footer .insta{
 	border-radius: 50px;
 }
 
-/*COLORES*/
+/*EXTRAS*/
 .fondo-verde{
 	background-color: var(--color-verde);
 }
@@ -876,4 +887,8 @@ footer .insta{
 	background-color: var(--color-verde);
     border: none; 
     height: 3px; 
+}
+
+.iconos{
+	font-size: 30px;
 }
