@@ -874,6 +874,331 @@ footer .insta{
 	border-radius: 50px;
 }
 
+#header-hoteles{
+	background-color: #fff;
+	color: var(--color-verde);
+	margin-top: 10px;
+}
+#header-hoteles h1{
+	text-align: center;
+	font-size: 70px;
+	font-weight: 700;
+	padding-top: 50px;
+	padding-bottom: 30px;
+}
+
+#header-hoteles p{
+	color: var(--color-verde);
+	font-weight: 700;
+	font-size: 20px;
+	padding-top: 48px;
+}
+
+#hoteles{
+	padding: 5% 0;
+}
+#hoteles h4{
+	padding-top: 15px;
+	text-align: center;
+	font-size: 40px;
+	font-weight: bold;
+}
+
+#hoteles .h-tegucigalpa{
+	background-image: url("../img/hotel-tegucigalpa.jpg");
+	background-position: center;
+	background-size: cover;
+	box-shadow: 0px 0px 12px 7px #d4d4d4;
+	padding: 70px 0;
+	margin: 0 5%;
+	border-radius: 50px;
+	cursor: pointer;
+}
+
+#hoteles .h-sanpedrosula{
+	background-image: url("../img/hotel-san-pedro-sula.jpg");
+	background-position: center;
+	background-size: cover;
+	box-shadow: 0px 0px 12px 7px #d4d4d4;
+	padding: 70px 0;
+	margin: 0 5%;
+	border-radius: 50px;
+	cursor: pointer;
+}
+
+#hoteles .h-roatan{
+	background-image: url("../img/hotel-roatan.jpg");
+	background-position: center;
+	background-size: cover;
+	box-shadow: 0px 0px 12px 7px #d4d4d4;
+	padding: 70px 0;
+	margin: 0 5%;
+	border-radius: 50px;
+	cursor: pointer;
+}
+
+#hoteles .h-utila{
+	background-image: url("../img/hotel-utila.jpg");
+	background-position: center;
+	background-size: cover;
+	box-shadow: 0px 0px 12px 7px #d4d4d4;
+	padding: 70px 0;
+	margin: 0 5%;
+	border-radius: 50px;
+	cursor: pointer;
+}
+#hoteles-2{
+	padding: 5% 0;
+}
+
+#hoteles-2 h4{
+	padding-top: 15px;
+	text-align: center;
+	font-size: 40px;
+	font-weight: bold;
+}
+
+#hoteles-2 .h-comayagua{
+	background-image: url("../img/hotel-comayagua.jpg");
+	background-position: center;
+	background-size: cover;
+	box-shadow: 0px 0px 12px 7px #d4d4d4;
+	padding: 70px 0;
+	margin: 0 5%;
+	border-radius: 50px;
+	cursor: pointer;
+}
+
+#hoteles-2 .h-tela{
+	background-image: url("../img/hotel-tela.jpg");
+	background-position: center;
+	background-size: cover;
+	box-shadow: 0px 0px 12px 7px #d4d4d4;
+	padding: 70px 0;
+	margin: 0 5%;
+	border-radius: 50px;
+	cursor: pointer;
+}
+
+#hoteles-2 .h-laceiba{
+	background-image: url("../img/hotel-la-ceiba.jpg");
+	background-position: center;
+	background-size: cover;
+	box-shadow: 0px 0px 12px 7px #d4d4d4;
+	padding: 70px 0;
+	margin: 0 5%;
+	border-radius: 50px;
+	cursor: pointer;
+}
+
+#hoteles-2 .h-laesperanza{
+	background-image: url("../img/hotel-la-esperanza.jpeg");
+	background-position: center;
+	background-size: cover;
+	box-shadow: 0px 0px 12px 7px #d4d4d4;
+	padding: 70px 0;
+	margin: 0 5%;
+	border-radius: 50px;
+	cursor: pointer;
+}
+
+#hoteles-3{
+	padding: 5% 0;
+}
+#hoteles-3 h4{
+	padding-top: 15px;
+	text-align: center;
+	font-size: 40px;
+	font-weight: bold;
+}
+
+#hoteles-3 .h-puertocortes{
+	background-image: url("../img/hotel-puerto-cortes.jpg");
+	background-position: center;
+	background-size: cover;
+	box-shadow: 0px 0px 12px 7px #d4d4d4;
+	padding: 70px 0;
+	margin: 0 5%;
+	border-radius: 50px;
+	cursor: pointer;
+}
+
+#hoteles-3 .h-elprogreso{
+	background-image: url("../img/hotel-el-progreso.jpg");
+	background-position: center;
+	background-size: cover;
+	box-shadow: 0px 0px 12px 7px #d4d4d4;
+	padding: 70px 0;
+	margin: 0 5%;
+	border-radius: 50px;
+	cursor: pointer;
+}
+
+#hoteles-3 .h-gracias{
+	background-image: url("../img/hotel-gracias.jpg");
+	background-position: center;
+	background-size: cover;
+	box-shadow: 0px 0px 12px 7px #d4d4d4;
+	padding: 70px 0;
+	margin: 0 5%;
+	border-radius: 50px;
+	cursor: pointer;
+}
+
+#hoteles-3 .h-amapala{
+	background-image: url("../img/hotel-amapala.jpg");
+	background-position: center;
+	background-size: cover;
+	box-shadow: 0px 0px 12px 7px #d4d4d4;
+	padding: 70px 0;
+	margin: 0 5%;
+	border-radius: 50px;
+	cursor: pointer;
+}
+#hoteles-4{
+	padding: 5% 0;
+}
+#hoteles-4 h4{
+	padding-top: 15px;
+	text-align: center;
+	font-size: 40px;
+	font-weight: bold;
+}
+
+#hoteles-4 .h-omoa{
+	background-image: url("../img/hotel-omoa.jpg");
+	background-position: center;
+	background-size: cover;
+	box-shadow: 0px 0px 12px 7px #d4d4d4;
+	padding: 70px 0;
+	margin: 0 5%;
+	border-radius: 50px;
+	cursor: pointer;
+	
+}
+
+#hoteles-4 .h-trujillo{
+	background-image: url("../img/hotel-trujillo.jpg");
+	background-position: center;
+	background-size: cover;
+	box-shadow: 0px 0px 12px 7px #d4d4d4;
+	padding: 70px 0;
+	margin: 0 5%;
+	border-radius: 50px;
+	cursor: pointer;
+}
+
+#hoteles-4 .h-choluteca{
+	background-image: url("../img/hotel-choluteca.jpg");
+	background-position: center;
+	background-size: cover;
+	box-shadow: 0px 0px 12px 7px #d4d4d4;
+	padding: 70px 0;
+	margin: 0 5%;
+	border-radius: 50px;
+	cursor: pointer;
+}
+
+#hoteles-4 .h-sambocreek{
+	background-image: url("../img/hotel-sambo-creek.jpg");
+	background-position: center;
+	background-size: cover;
+	box-shadow: 0px 0px 12px 7px #d4d4d4;
+	padding: 70px 0;
+	margin: 0 5%;
+	border-radius: 50px;
+	cursor: pointer;
+}
+
+#hoteles-5{
+	padding: 5% 0;
+	padding-bottom: 10%;
+}
+#hoteles-5 h4{
+	padding-top: 15px;
+	text-align: center;
+	font-size: 40px;
+	font-weight: bold;
+}
+
+#hoteles-5 .h-lacampa{
+	background-image: url("../img/hotel-la-campa.jpg");
+	background-position: center;
+	background-size: cover;
+	box-shadow: 0px 0px 12px 7px #d4d4d4;
+	padding: 70px 0;
+	margin: 0 5%;
+	border-radius: 50px;
+	cursor: pointer;
+}
+
+#hoteles-5 .h-talgua{
+	background-image: url("../img/hotel-talgua.jpg");
+	background-position: center;
+	background-size: cover;
+	box-shadow: 0px 0px 12px 7px #d4d4d4;
+	padding: 70px 0;
+	margin: 0 5%;
+	border-radius: 50px;
+	cursor: pointer;
+}
+
+#hoteles-5 .h-launion{
+	background-image: url("../img/hotel-la-union.jpg");
+	background-position: center;
+	background-size: cover;
+	box-shadow: 0px 0px 12px 7px #d4d4d4;
+	padding: 70px 0;
+	margin: 0 5%;
+	border-radius: 50px;
+	cursor: pointer;
+}
+
+#hoteles-5 .h-siguatepeque{
+	background-image: url("../img/hotel-siguatepeque.jpg");
+	background-position: center;
+	background-size: cover;
+	box-shadow: 0px 0px 12px 7px #d4d4d4;
+	padding: 70px 0;
+	margin: 0 5%;
+	border-radius: 50px;
+	cursor: pointer;
+}
+
+/*Datos para pagina ARTE*/
+
+#header-contact{
+	background-color: #fff;
+	color: var(--color-verde);
+	margin-top: 10px;
+}
+
+#header-contact h1{
+	text-align: center;
+	font-size: 70px;
+	font-weight: 700;
+	padding-top: 50px;
+	padding-bottom: 30px;
+}
+
+#header-contact p{
+	color: var(--color-verde);
+	font-weight: 700;
+	font-size: 20px;
+	padding-top: 48px;
+}
+
+#contact
+{
+	margin: 30px 200px;
+}
+
+#contact p
+{
+	color: var(--color-verde);
+	
+}
+
 /*EXTRAS*/
 .fondo-verde{
 	background-color: var(--color-verde);
