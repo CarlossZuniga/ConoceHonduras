@@ -875,11 +875,14 @@ footer .insta{
 	border-radius: 50px;
 }
 
+/*Datos para pagina HOTELES*/
+
 #header-hoteles{
 	background-color: #fff;
 	color: var(--color-verde);
 	margin-top: 10px;
 }
+
 #header-hoteles h1{
 	text-align: center;
 	font-size: 70px;
@@ -898,6 +901,7 @@ footer .insta{
 #hoteles{
 	padding: 5% 0;
 }
+
 #hoteles h4{
 	padding-top: 15px;
 	text-align: center;
@@ -948,6 +952,7 @@ footer .insta{
 	border-radius: 50px;
 	cursor: pointer;
 }
+
 #hoteles-2{
 	padding: 5% 0;
 }
@@ -1006,6 +1011,7 @@ footer .insta{
 #hoteles-3{
 	padding: 5% 0;
 }
+
 #hoteles-3 h4{
 	padding-top: 15px;
 	text-align: center;
@@ -1056,9 +1062,11 @@ footer .insta{
 	border-radius: 50px;
 	cursor: pointer;
 }
+
 #hoteles-4{
 	padding: 5% 0;
 }
+
 #hoteles-4 h4{
 	padding-top: 15px;
 	text-align: center;
@@ -1075,7 +1083,6 @@ footer .insta{
 	margin: 0 5%;
 	border-radius: 50px;
 	cursor: pointer;
-	
 }
 
 #hoteles-4 .h-trujillo{
@@ -1115,6 +1122,7 @@ footer .insta{
 	padding: 5% 0;
 	padding-bottom: 10%;
 }
+
 #hoteles-5 h4{
 	padding-top: 15px;
 	text-align: center;
@@ -1166,7 +1174,7 @@ footer .insta{
 	cursor: pointer;
 }
 
-/*Datos para pagina ARTE*/
+/*Datos para pagina CONTACT*/
 
 #header-contact{
 	background-color: #fff;
@@ -1189,15 +1197,33 @@ footer .insta{
 	padding-top: 48px;
 }
 
-#contact
-{
-	margin: 30px 200px;
+#contact{
+	padding: 30px 300px;
 }
 
-#contact p
-{
+#contact p{
 	color: var(--color-verde);
-	
+}
+
+.form-control{
+	border-color: var(--color-verde);
+}
+
+.btn-contact{
+	background-color: var(--color-verde);
+	color: #fff;
+	border: 2px solid #FFFFFF;
+	padding: 10px 40px;
+	border-radius: 10px;
+	font-weight: 700;
+	margin-right: 30px; 
+	font-size: 18px;
+}
+
+.btn-contact:hover{
+	background-color: #4ED377;
+	border-color: #4ED377;
+	color: #fff;
 }
 
 /*EXTRAS*/
