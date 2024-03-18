@@ -46,6 +46,8 @@ header p{
 	background-position: center;
 	background-size: cover;
 	padding: 24% 0 7%;
+	background-color: rgba(0,0,0,0.60);
+	background-blend-mode: multiply;
 }
 
 #hero p{
@@ -87,6 +89,8 @@ header p{
 	margin: 0 5%;
 	border-radius: 50px;
 	cursor: pointer;
+	background-color: rgba(0,0,0,0.60);
+	background-blend-mode: multiply;
 }
 
 #lugares-destacados .copan{
@@ -98,6 +102,8 @@ header p{
 	margin: 0 5%;
 	border-radius: 50px;
 	cursor: pointer;
+	background-color: rgba(0,0,0,0.60);
+	background-blend-mode: multiply;
 }
 
 #lugares-destacados .roatan{
@@ -109,6 +115,8 @@ header p{
 	margin: 0 5%;
 	border-radius: 50px;
 	cursor: pointer;
+	background-color: rgba(0,0,0,0.60);
+	background-blend-mode: multiply;
 }
 
 #ciudad-blanca{
@@ -117,6 +125,8 @@ header p{
 	background-size: cover;
 	padding: 100px 0;
 	text-align: left;
+	background-color: rgba(0,0,0,0.60);
+	background-blend-mode: multiply;
 }
 
 #ciudad-blanca h2{
@@ -135,6 +145,8 @@ header p{
 	padding: 100px 0;
 	text-align: right;
 	margin-bottom: 10%;
+	background-color: rgba(0,0,0,0.60);
+	background-blend-mode: multiply;
 }
 
 #arrecifes-coral h2{
@@ -350,6 +362,8 @@ footer .insta{
 	margin: 0 5%;
 	border-radius: 50px;
 	cursor: pointer;
+	background-color: rgba(0,0,0,0.60);
+	background-blend-mode: multiply;
 }
 
 #actividades .act-comida{
@@ -361,6 +375,8 @@ footer .insta{
 	margin: 0 5%;
 	border-radius: 50px;
 	cursor: pointer;
+	background-color: rgba(0,0,0,0.60);
+	background-blend-mode: multiply;
 }
 
 #actividades .act-arte{
@@ -372,6 +388,8 @@ footer .insta{
 	margin: 0 5%;
 	border-radius: 50px;
 	cursor: pointer;
+	background-color: rgba(0,0,0,0.60);
+	background-blend-mode: multiply;
 }
 
 /*Datos para pagina AL AIRE LIBRE*/
@@ -918,6 +936,8 @@ footer .insta{
 	margin: 0 5%;
 	border-radius: 50px;
 	cursor: pointer;
+	background-color: rgba(0,0,0,0.60);
+	background-blend-mode: multiply;
 }
 
 #hoteles .h-sanpedrosula{
@@ -929,6 +949,8 @@ footer .insta{
 	margin: 0 5%;
 	border-radius: 50px;
 	cursor: pointer;
+	background-color: rgba(0,0,0,0.60);
+	background-blend-mode: multiply;
 }
 
 #hoteles .h-roatan{
@@ -940,6 +962,8 @@ footer .insta{
 	margin: 0 5%;
 	border-radius: 50px;
 	cursor: pointer;
+	background-color: rgba(0,0,0,0.60);
+	background-blend-mode: multiply;
 }
 
 #hoteles .h-utila{
@@ -951,6 +975,8 @@ footer .insta{
 	margin: 0 5%;
 	border-radius: 50px;
 	cursor: pointer;
+	background-color: rgba(0,0,0,0.60);
+	background-blend-mode: multiply;
 }
 
 #hoteles-2{
@@ -973,6 +999,8 @@ footer .insta{
 	margin: 0 5%;
 	border-radius: 50px;
 	cursor: pointer;
+	background-color: rgba(0,0,0,0.60);
+	background-blend-mode: multiply;
 }
 
 #hoteles-2 .h-tela{
@@ -984,6 +1012,8 @@ footer .insta{
 	margin: 0 5%;
 	border-radius: 50px;
 	cursor: pointer;
+	background-color: rgba(0,0,0,0.60);
+	background-blend-mode: multiply;
 }
 
 #hoteles-2 .h-laceiba{
@@ -995,6 +1025,8 @@ footer .insta{
 	margin: 0 5%;
 	border-radius: 50px;
 	cursor: pointer;
+	background-color: rgba(0,0,0,0.60);
+	background-blend-mode: multiply;
 }
 
 #hoteles-2 .h-laesperanza{
@@ -1006,6 +1038,8 @@ footer .insta{
 	margin: 0 5%;
 	border-radius: 50px;
 	cursor: pointer;
+	background-color: rgba(0,0,0,0.60);
+	background-blend-mode: multiply;
 }
 
 #hoteles-3{
@@ -1028,6 +1062,8 @@ footer .insta{
 	margin: 0 5%;
 	border-radius: 50px;
 	cursor: pointer;
+	background-color: rgba(0,0,0,0.60);
+	background-blend-mode: multiply;
 }
 
 #hoteles-3 .h-elprogreso{
@@ -1039,6 +1075,8 @@ footer .insta{
 	margin: 0 5%;
 	border-radius: 50px;
 	cursor: pointer;
+	background-color: rgba(0,0,0,0.60);
+	background-blend-mode: multiply;
 }
 
 #hoteles-3 .h-gracias{
@@ -1050,6 +1088,8 @@ footer .insta{
 	margin: 0 5%;
 	border-radius: 50px;
 	cursor: pointer;
+	background-color: rgba(0,0,0,0.60);
+	background-blend-mode: multiply;
 }
 
 #hoteles-3 .h-amapala{
@@ -1061,6 +1101,8 @@ footer .insta{
 	margin: 0 5%;
 	border-radius: 50px;
 	cursor: pointer;
+	background-color: rgba(0,0,0,0.60);
+	background-blend-mode: multiply;
 }
 
 #hoteles-4{
@@ -1083,6 +1125,8 @@ footer .insta{
 	margin: 0 5%;
 	border-radius: 50px;
 	cursor: pointer;
+	background-color: rgba(0,0,0,0.60);
+	background-blend-mode: multiply;
 }
 
 #hoteles-4 .h-trujillo{
@@ -1094,6 +1138,8 @@ footer .insta{
 	margin: 0 5%;
 	border-radius: 50px;
 	cursor: pointer;
+	background-color: rgba(0,0,0,0.60);
+	background-blend-mode: multiply;
 }
 
 #hoteles-4 .h-choluteca{
@@ -1105,6 +1151,8 @@ footer .insta{
 	margin: 0 5%;
 	border-radius: 50px;
 	cursor: pointer;
+	background-color: rgba(0,0,0,0.60);
+	background-blend-mode: multiply;
 }
 
 #hoteles-4 .h-sambocreek{
@@ -1116,6 +1164,8 @@ footer .insta{
 	margin: 0 5%;
 	border-radius: 50px;
 	cursor: pointer;
+	background-color: rgba(0,0,0,0.60);
+	background-blend-mode: multiply;
 }
 
 #hoteles-5{
@@ -1139,6 +1189,8 @@ footer .insta{
 	margin: 0 5%;
 	border-radius: 50px;
 	cursor: pointer;
+	background-color: rgba(0,0,0,0.60);
+	background-blend-mode: multiply;
 }
 
 #hoteles-5 .h-talgua{
@@ -1150,6 +1202,8 @@ footer .insta{
 	margin: 0 5%;
 	border-radius: 50px;
 	cursor: pointer;
+	background-color: rgba(0,0,0,0.60);
+	background-blend-mode: multiply;
 }
 
 #hoteles-5 .h-launion{
@@ -1161,6 +1215,8 @@ footer .insta{
 	margin: 0 5%;
 	border-radius: 50px;
 	cursor: pointer;
+	background-color: rgba(0,0,0,0.60);
+	background-blend-mode: multiply;
 }
 
 #hoteles-5 .h-siguatepeque{
@@ -1172,6 +1228,8 @@ footer .insta{
 	margin: 0 5%;
 	border-radius: 50px;
 	cursor: pointer;
+	background-color: rgba(0,0,0,0.60);
+	background-blend-mode: multiply;
 }
 
 /*Datos para pagina CONTACT*/
@@ -1205,14 +1263,51 @@ footer .insta{
 	color: var(--color-verde);
 }
 
+#header-reservaciones{
+	background-color: var(--color-verde);
+	color: #fff;
+}
+
+#header-reservaciones h1{
+	text-align: center;
+	font-size: 70px;
+	font-weight: 700;
+	padding-top: 50px;
+	padding-bottom: 30px;
+}
+
+#header-reservaciones p{
+	color: #fff;
+	font-weight: 700;
+	font-size: 20px;
+	padding-top: 48px;
+}
+
+#reservar{
+	background-image: url("../img/reservaciones-fondo.jpg");
+	background-position: center;
+	background-size: cover;
+	padding: 20% 20% 20%;
+	background-color: rgba(0,0,0,0.60);
+	background-blend-mode: multiply;
+}
+
+#reservar placeholder{
+	font-size: 50px;
+}
+
 .form-control{
 	border-color: var(--color-verde);
+}
+
+.form-we{
+	padding: 20px 0;
 }
 
 .btn-contact{
 	background-color: var(--color-verde);
 	color: #fff;
-	border: 2px solid #FFFFFF;
+	border: 2px solid var(--color-verde);
 	padding: 10px 40px;
 	border-radius: 10px;
 	font-weight: 700;
@@ -1225,6 +1320,59 @@ footer .insta{
 	border-color: #4ED377;
 	color: #fff;
 }
+
+
+#header-nosotros{
+	background-color: var(--color-verde);
+	color: #fff;
+}
+
+#header-nosotros h1{
+	text-align: center;
+	font-size: 70px;
+	font-weight: 700;
+	padding-top: 50px;
+	padding-bottom: 30px;
+}
+
+#header-nosotros p{
+	color: #fff;
+	font-weight: 700;
+	font-size: 20px;
+	padding-top: 48px;
+}
+
+#sobrenosotros{
+	text-align: center;
+	background-image: url("../img/sn-sobrenosotros.jpg");
+	background-position: center;
+	background-size: cover;
+	padding: 20% 0 20%;
+	background-color: rgba(0,0,0,0.60);
+	background-blend-mode: multiply;
+}
+
+#mison{
+	text-align: center;
+	background-image: url("../img/sn-mision.jpg");
+	background-position: center;
+	background-size: cover;
+	padding: 20% 0 20%;
+	background-color: rgba(0,0,0,0.60);
+	background-blend-mode: multiply;
+}
+#vision{
+	text-align: center;
+	background-image: url("../img/sn-vision.jpg");
+	background-position: center;
+	background-size: cover;
+	padding: 20% 0 20%;
+	background-color: rgba(0,0,0,0.60);
+	background-blend-mode: multiply;
+}
+
+
+
 
 /*EXTRAS*/
 .fondo-verde{
